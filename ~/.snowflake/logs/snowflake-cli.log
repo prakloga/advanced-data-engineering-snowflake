@@ -1,0 +1,4 @@
+2025-07-24 15:01:07 INFO [snowflake.cli._plugins.stage.manager] Copying files from @advanced_data_engineering_snowflake/branches/main/ to @COURSE_REPO.PUBLIC.snowflake_cli_tmp_stage_1753387266
+2025-07-24 15:06:51 INFO [snowflake.cli._plugins.stage.manager] Copying files from @advanced_data_engineering_snowflake/branches/main/ to @COURSE_REPO.PUBLIC.snowflake_cli_tmp_stage_1753387610
+2025-07-24 15:11:27 INFO [snowflake.cli._plugins.stage.manager] Copying files from @advanced_data_engineering_snowflake/branches/main/ to @COURSE_REPO.PUBLIC.snowflake_cli_tmp_stage_1753387886
+2025-07-24 15:13:14 INFO [snowflake.cli._plugins.stage.manager] Copying files from @advanced_data_engineering_snowflake/branches/main/ to @COURSE_REPO.PUBLIC.snowflake_cli_tmp_stage_1753387993
